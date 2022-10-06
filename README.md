@@ -6,6 +6,6 @@
 
 * [A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed)
 
-> `¿Qué es JavaScript?`
+## ¿Qué es JavaScript?`
 
 * [¿Qué es JavaScript?](https://code.tutsplus.com/es/tutorials/what-is-javascript--cms-26177)
