@@ -2,6 +2,8 @@
 // En JS cada valor es un Objeto o un valor primitivo
 // Un valor es primitivo cuando no es un Objeto
 
+// https://es.javascript.info/types
+
 // Objeto
 let me = {
   name: "Ryan Gosling",
@@ -28,9 +30,11 @@ let boo2 = false;
 // Undefined es un valor que aun no esta definido
 // Una variable que no fue definida es una variable que declaramos pero sin asignar un valor
 // Basicamente podriamos decir que undefined es un valor vacio
+// https://es.javascript.info/types#el-valor-undefined-indefinido
 let children;
 
 // null es un valor vacio
+// https://es.javascript.info/types#el-valor-null-nulo
 let isNull = null;
 
 // symbol define un valor que es único y que no se puede cambiar
