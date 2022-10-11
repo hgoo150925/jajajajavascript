@@ -28,7 +28,7 @@ let boo2 = false;
 // Undefined es un valor que aun no esta definido
 // Una variable que no fue definida es una variable que declaramos pero sin asignar un valor
 // Basicamente podriamos decir que undefined es un valor vacio
-let children = undefined;
+let children;
 
 // null es un valor vacio
 let isNull = null;
